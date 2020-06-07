@@ -1,8 +1,8 @@
-#RANDOM NUMBER
+# RANDOM NUMBER
 
-An android app to generate random number
+An android app to generate random number between 2 numbers.
 
-##Built With
+## Built With
 
 * Android Studio (Java)
 
